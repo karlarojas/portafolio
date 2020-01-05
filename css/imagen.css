@@ -1,0 +1,20 @@
+@media screen and (max-width: 499px){
+    .perfil{
+        max-width: 60%;
+    }
+    #about{
+    	padding-top: 16px!important;
+    }
+}
+
+
+
+@media screen and (max-width: 768px) and (min-width: 500px){
+    .perfil{
+        max-width: 40%;
+    }
+    #about{
+    	padding-top: 16px!important;
+    }
+}
+
