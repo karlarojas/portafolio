@@ -1,6 +1,6 @@
 function calcularEdad() {
 	var hoy = new Date();
-	var cumpleanos = new Date('07/13/1999');
+	var cumpleanos = new Date('07/12/1999');
 	var edad = hoy.getFullYear() - cumpleanos.getFullYear();
 	var m = hoy.getMonth() - cumpleanos.getMonth();
 
